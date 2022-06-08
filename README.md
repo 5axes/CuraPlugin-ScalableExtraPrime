@@ -32,8 +32,12 @@ extra filament = ((actual_travel - min_travel) / ( max_travel - min_travel)) * (
 ##### Max Extra Prime
 * The maximum amount of filament to add after a travel
 
-##### Enable For All Travels
-* Enable scaled extra prime for all travels. If this is disabled, extra prime will only be added after retractions
+##### Extra Prime Travels With Retraction
+* Enable scaled extra prime for travels preceded by a retraction
+
+##### Extra Prime Travels Without Retraction
+* Enable scaled extra prime for travels not preceded by a retraction
+
 
 ### Supported Cura Versions
 This has been tested on Cura 5.0.
