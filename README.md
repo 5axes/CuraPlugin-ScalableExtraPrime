@@ -15,6 +15,8 @@ extra filament = ((actual_travel - min_travel) / ( max_travel - min_travel)) * (
 
 ### Settings
 
+![Settings](./images/settings.png)
+
 ##### Enable Scalable Extra Prime
 * Enables scalable extra prime. If this is false, no extra prime is added by the plugin  
 
@@ -34,9 +36,5 @@ extra filament = ((actual_travel - min_travel) / ( max_travel - min_travel)) * (
 * Enable scaled extra prime for all travels. If this is disabled, extra prime will only be added after retractions
 
 ### Supported Cura Versions
-This has been tested on Cura 3.2.0.
+This has been tested on Cura 5.0.
 
-### Installation
-You can install this plugin directly from Cura using the Toolbox
-
-Alternatively, download [ScalableExtraPrime.curaplugin](https://github.com/Pheneeny/CuraPlugin-ScalableExtraPrime/releases/download/v1.0.0/ScalableExtraPrime.curaplugin), drag and drop the .curaplugin file into Cura, then restart Cura for the plugin to be loaded. You will need to enable the plugin and all of the plugin's settings.
