@@ -15,6 +15,8 @@ extra filament = ((actual_travel - min_travel) / ( max_travel - min_travel)) * (
 
 ### Settings
 
+![Settings](./images/settings.png)
+
 ##### Enable Scalable Extra Prime
 * Enables scalable extra prime. If this is false, no extra prime is added by the plugin  
 
