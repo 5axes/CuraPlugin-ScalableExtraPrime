@@ -80,7 +80,7 @@ class ScalableExtraPrime(Extension):
         }
         self._enable_retraction_travels_key = "scalable_prime_enable_retraction_travels"
         self._enable_retraction_travels_dict = {
-            "label": "Travels With Retraction",
+            "label": "Extra Prime Travels With Retraction",
             "description": "Enables slicer to add extra filament after a travel that was preceded by a retraction.",
             "type": "bool",
             "unit": "",
@@ -92,7 +92,7 @@ class ScalableExtraPrime(Extension):
         }
         self._enable_no_retraction_travels_key = "scalable_prime_enable_no_retraction_travels"
         self._enable_no_retraction_travels_dict = {
-            "label": "Travels Without Retraction",
+            "label": "Extra Prime Travels Without Retraction",
             "description": "Enables slicer to add extra filament after a travel that was not preceded by a retraction.",
             "type": "bool",
             "unit": "",
