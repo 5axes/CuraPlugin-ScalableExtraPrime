@@ -45,3 +45,6 @@ Original concept and version by github user [Pheneey](https://github.com/Pheneen
 
 This has been tested on Cura 5.0 - 5.4  (Code generation works, no real tests on machine).
 
+### Discussion
+
+Retraction extra prime amount, dynamic based on time of travel discussion : [#Cura Github](https://github.com/Ultimaker/Cura/issues/12670)
