@@ -13,6 +13,8 @@ The amount of filament added is scaled linearly, roughly using this equation:
 
 extra filament = ((actual_travel - min_travel) / ( max_travel - min_travel)) * (max_prime - min_prime) + min_prime
 
+Original concept and version by github user [Pheneey](https://github.com/Pheneeny/CuraPlugin-ScalableExtraPrime). Updated to support newer versions of Cura (5.0) .
+
 ### Settings
 
 ![Settings](./images/settings.png)
@@ -40,5 +42,6 @@ extra filament = ((actual_travel - min_travel) / ( max_travel - min_travel)) * (
 
 
 ### Supported Cura Versions
-This has been tested on Cura 5.0.
+
+This has been tested on Cura 5.0 - 5.4 (La génération du code fonctionne, pas de tests rééls sur machine).
 
