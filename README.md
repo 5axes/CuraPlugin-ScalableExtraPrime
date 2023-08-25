@@ -43,5 +43,5 @@ Original concept and version by github user [Pheneey](https://github.com/Pheneen
 
 ### Supported Cura Versions
 
-This has been tested on Cura 5.0 - 5.4 (La génération du code fonctionne, pas de tests rééls sur machine).
+This has been tested on Cura 5.0 - 5.4  (Code generation works, no real tests on machine).
 
